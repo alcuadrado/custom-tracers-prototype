@@ -1,0 +1,13 @@
+{
+  "name": "js-in",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "quickjs-emscripten": "^0.23.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.7",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
